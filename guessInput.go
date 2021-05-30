@@ -24,7 +24,7 @@ func main() {
 
 	fmt.Println("This program is Guess Number.")
 
-	for number != guess{
+	for number != guess {
 		// input
 		fmt.Println()
 		fmt.Print("Enter first number: ")
